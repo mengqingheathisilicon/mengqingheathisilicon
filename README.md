@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @mengqingheathisilicon
+- 👀 I’m interested in modeling in thermodynamics and semiconductors industry
+- 🌱 I’m currently learning C#
+- 💞️ I’m looking to collaborate on modeling
+- 📫 Reach me via mengqinghe2@hisilicon.com
